@@ -1,0 +1,17 @@
+# Execute ping and have output sent to a file:
+#   Checks if ping was successful
+#   Check if connection exists
+
+import os
+
+os.system("ping 8.8.8.8 >> pingTest.txt")
+
+with open("pingTest.txt", "r") as file:
+    for line in file:                           # For every line in file(variable we set to define "pingtest.txt")
+        if "ms" in line:                        # If ms is found: Do some thing
+            print("You have a connection")
+            break                               # This break prevents returning "You have a connection" for every line with "ms"
+        elif "unreachable" in line:             # If this condition is met: Do some thing
+            print("You do not have an connection")
+        else:
+            continue
