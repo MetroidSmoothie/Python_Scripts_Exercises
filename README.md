@@ -1,8 +1,8 @@
 # python-fundamentals
 
-This repository contains a collection of notes/code demonstrating core language concepts and basic scripting techniques. These labs were completed as part of both coursework and personal study. I have organized the by concept for clarity.
+This repository contains a collection of code/notes demonstrating core language concepts and basic scripting techniques. These labs were completed as part of both coursework and personal study. They have been organized by concept for clarity.
 
-The focus of this repository is on:
+This repository focuses on:
 - Writing readable, well-structured Python code
 - Understanding core language features such as conditionals, loops, functions, and data structures
 - Using standard library modules and basic file/OS interactions
