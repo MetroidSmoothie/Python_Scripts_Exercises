@@ -1,4 +1,4 @@
-# Python Fundamentals
+# Python Scripts & Exercises
 
 This repository contains a collection of code/notes demonstrating core language concepts and basic scripting techniques. These labs were completed as part of both coursework and personal study. They have been organized by concept for clarity.
 
