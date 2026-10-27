@@ -1,11 +1,20 @@
 # Python Scripts & Exercises
 
-This repository contains a collection of code/notes demonstrating core language concepts and basic scripting techniques. These labs were completed as part of both coursework and personal study. They have been organized by concept for clarity.
+This repository contains a collection of Python scripts, exercises, and notes completed through coursework and personal study. The repository is organized by programming concept and documents my progression through Python fundamentals.
 
-This repository focuses on:
-- Writing readable, well-structured Python code
-- Understanding core language features such as conditionals, loops, functions, and data structures
-- Using standard library modules and basic file/OS interactions
+## Topics
 
-These examples are intentionally simple and are meant to demonstrate a foundational understanding
-of Python rather than advanced or production-level tooling.
+| Directory | Focus |
+|---|---|
+| [01 — Conditions](01_conditions/) | Conditional statements, comparisons, and program control flow. |
+| [02 — Loops](02_loops/) | Iteration, loop control, and repetitive operations. |
+| [03 — Data Types & Structures](03_data_types_structures/) | Working with Python data types and collections. |
+| [04 — Functions & Exception Handling](04_functions_exception_handling/) | Reusable functions, error handling, and program structure. |
+| [05 — File Manipulation](05_file_manipulation/) | Reading, writing, and manipulating files. |
+| [06 — Modules & Standard Library](06_modules_standard_lib/) | Using Python modules and built-in libraries. |
+
+## Purpose
+
+These exercises focus on developing foundational programming skills, including readable code, problem-solving, basic scripting, and file operations.
+The examples are intentionally introductory and are not intended to represent advanced or production-ready applications.
+
